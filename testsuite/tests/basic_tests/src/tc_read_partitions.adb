@@ -1,11 +1,21 @@
-with AUnit.Assertions; use AUnit.Assertions;
-with Ada.Text_IO; use Ada.Text_IO;
-with Test_Directories;   use Test_Directories;
+with Ada.Text_IO;   use Ada.Text_IO;
 
 procedure TC_Read_Partitions is
+   procedure List_Partitions (FS : in Integer);
 
-begin
+   ---------------------
+   -- List_Partitions --
+   ---------------------
 
-   Put_Line ("foo");
-end TC_Read_Partitions;
+   procedure List_Partitions (FS : in Integer)
+   is
+   begin
+      begin
+         Ada.Text_IO.Put_Line (FS'Img);
+      end List_Partitions;
 
+      begin
+
+         List_Partitions (1);
+
+      end TC_Read_Partitions;
