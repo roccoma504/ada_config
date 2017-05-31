@@ -10,12 +10,11 @@ procedure TC_Read_Partitions is
    procedure List_Partitions (FS : in Integer)
    is
    begin
-      begin
-         Ada.Text_IO.Put_Line (FS'Img);
-      end List_Partitions;
+      Ada.Text_IO.Put_Line (FS'Img);
+   end List_Partitions;
 
-      begin
+begin
 
-         List_Partitions (1);
+   List_Partitions (1);
 
-      end TC_Read_Partitions;
+end TC_Read_Partitions;
