@@ -1,15 +1,9 @@
 with AUnit.Assertions; use AUnit.Assertions;
-
+with Ada.Text_IO; use Ada.Text_IO;
 procedure TC_Read_Partitions is
-
-   procedure Run_Test (T : in Integer) is
-   begin
-      Assert (T = 1, "Addition is incorrect");
-   end Run_Test;
 
 begin
 
-   Run_Test (1);
-
+   Put_Line ("foo");
 end TC_Read_Partitions;
 

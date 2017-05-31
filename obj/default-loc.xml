@@ -18,7 +18,7 @@
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/default.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 26" line=" 2" >
+    <file_marker column=" 33" line=" 2" >
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/default.gpr</vfs_file>
     </file_marker>
@@ -30,7 +30,7 @@
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 20" >
+    <file_marker column=" 1" line=" 16" >
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
@@ -38,25 +38,113 @@
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 16" line=" 10" >
+    <file_marker column=" 4" line=" 5" >
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 20" >
+    <file_marker column=" 1" line=" 16" >
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 25" line=" 6" >
+    <file_marker column=" 4" line=" 5" >
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 18" >
+    <file_marker column=" 1" line=" 14" >
       <vfs_project />
       <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 1" line=" 6" >
+    <file_marker column=" 1" line=" 16" >
       <vfs_project />
-      <vfs_file>/Users/rocco/Google Drive/ada_config/default.gpr</vfs_file>
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 12" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 8" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 10" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/testsuite/tests/basic_tests/src/tc_read_partitions.adb</vfs_file>
     </file_marker>
   </Project>
   <Project >
