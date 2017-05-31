@@ -8,45 +8,62 @@ P ZX
 
 RN
 RV NO_IO
-RV NO_IMPLEMENTATION_ATTRIBUTES
 RV NO_IMPLEMENTATION_PRAGMAS
 RV SPARK_05
 
-U tc_read_partitions%b	tc_read_partitions.adb	0c13ab5a NE OO SU
+U tc_read_partitions%b	tc_read_partitions.adb	78704d64 NE OO SU
 W ada%s			ada.ads			ada.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
-W system.img_int%s	s-imgint.adb		s-imgint.ali
+W aunit%s		aunit.adb		aunit.ali
+W aunit.assertions%s	aunit-assertions.adb	aunit-assertions.ali
 
 D ada.ads		20160516092928 3ffc8e18 ada%s
+D a-calend.ads		20160516092931 2d5f01d4 ada.calendar%s
 D a-except.ads		20160516092928 291912d5 ada.exceptions%s
+D a-finali.ads		20160516092931 bf4f806b ada.finalization%s
 D a-ioexce.ads		20160516092927 e4a01f64 ada.io_exceptions%s
 D a-stream.ads		20160516092929 119b8fb3 ada.streams%s
 D a-tags.ads		20160516092932 01f5e3ef ada.tags%s
 D a-textio.ads		20160516092932 386df5d4 ada.text_io%s
 D a-unccon.ads		20160516092931 f9eb8f06 ada.unchecked_conversion%s
+D ada_containers.ads	20160516092006 11329e00 ada_containers%s
+D ada_containers-aunit_lists.ads  20160516092006 d9ebc89a ada_containers.aunit_lists%s
+D aunit.ads		20160516092006 76cdf7c6 aunit%s
+D aunit-assertions.ads	20160516092006 b7f9ecd6 aunit.assertions%s
+D aunit-test_results.ads  20160516092006 171847c9 aunit.test_results%s
+D aunit-tests.ads	20160516092006 1da11d49 aunit.tests%s
+D aunit-time_measure.ads  20160516092006 a8b9fbfb aunit.time_measure%s
+D gnat.ads		20160516092933 fd2ad2f1 gnat%s
+D g-souinf.ads		20160516092932 291df751 gnat.source_info%s
 D interfac.ads		20160516092928 5ab55268 interfaces%s
 D i-cstrea.ads		20160516092927 e53d8b8e interfaces.c_streams%s
 D system.ads		20160516092931 c3282aa7 system%s
 D s-crtl.ads		20160516092927 0ebbdb71 system.crtl%s
 D s-exctab.ads		20160516092931 54135002 system.exception_table%s
 D s-ficobl.ads		20160516092933 078245e4 system.file_control_block%s
-D s-imgint.ads		20160516092928 02dbe0c2 system.img_int%s
+D s-finmas.ads		20160516092931 7811a767 system.finalization_masters%s
+D s-finroo.ads		20160516092931 4ff27390 system.finalization_root%s
 D s-parame.ads		20160516092932 7e2a0d7f system.parameters%s
+D s-pooglo.ads		20160516092927 ede33ef8 system.pool_global%s
 D s-soflin.ads		20160516092929 14e1eb6c system.soft_links%s
 D s-stache.ads		20160516092932 a37c21ec system.stack_checking%s
 D s-stalib.ads		20160516092931 09bd3940 system.standard_library%s
 D s-stoele.ads		20160516092932 2dc34a04 system.storage_elements%s
+D s-stopoo.ads		20160516092928 b16154c2 system.storage_pools%s
 D s-traent.ads		20160516092928 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20160516092930 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20160516092931 1b7d22d2 system.wch_con%s
-D tc_read_partitions.adb  20170531020703 347e5e8e tc_read_partitions%b
+D tc_read_partitions.adb  20170531021504 f7e45466 tc_read_partitions%b
 X 1 ada.ads
-16K9*Ada 19e8 23|1r6 1r25 13r7
-X 6 a-textio.ads
-49K13*Text_IO 471e16 23|1w10 1r29 13r11
-263U14*Put_Line 23|13s19
-X 23 tc_read_partitions.adb
-3U11*TC_Read_Partitions 3b11 20l5 20t23
-4U14 List_Partitions 4>31 10b14 14l8 14t23 18s4
-4i31 FS{integer} 10b31 13r29
+16K9*Ada 19e8 37|1r6 1r25
+X 8 a-textio.ads
+49K13*Text_IO 471e16 37|1w10 1r29
+X 12 aunit.ads
+34K9*AUnit 48e10 37|2r6 2r28
+X 13 aunit-assertions.ads
+44K15*Assertions 155e21 37|2w12 2r34
+X 37 tc_read_partitions.adb
+4U11*TC_Read_Partitions 4b11 20l5 20t23
+5V13 List_Partitions{integer} 5>30 11b13 15l8 15t23 19s19
+5i30 FS{integer} 11b30 14r14 19r36
 
