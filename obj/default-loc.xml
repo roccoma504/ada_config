@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 6" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/default.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 45" line=" 2" >
+      <vfs_project />
+      <vfs_file>/Users/rocco/Google Drive/ada_config/default.gpr</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
