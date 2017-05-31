@@ -1,3 +1,5 @@
+# This script is adapted from https://github.com/AdaCore/Ada_Drivers_Library
+# Thanks to AdaCore for providing it
 # We are using Python 2.7 to run the testsuite
 language: python
 python:
@@ -27,11 +29,13 @@ install:
   - tar -xf $GNAT_TAR_PATH
 
   # Add GNAT to $PATH
-  - export PATH=$PATH:$PWD/gnat-gpl-2016-x86_64-linux-bin/bin/
+  - export PATH=$PWD/gnat-gpl-2016-x86_64-linux-bin/bin/:$PATH
 
 script:
   # Show GNAT version for the record
-  - $PWD/gnat-gpl-2016-x86_64-linux-bin/bin/gprbuild --version
+  - gcc --version
+  - gnatls -v
 
-  # Start the testsuite
-  - python $PWD/testsuite/run.py
+  # Just build
+  #- ./support/reconfig && ./configure && make
+  - git clone https://github.com/OpenAADL/ocarina-build.git ; ( cd ocarina-build ; ./build_ocarina.sh --scenario=travis-ci )
